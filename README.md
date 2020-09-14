@@ -2,6 +2,8 @@
 
 A Flutter App for creating Recipies.
 
+![YourCookBook Logo](https://github.com/JanMarcelKezmann/YourCookBook/blob/master/images/06_myb-wide.PNG)
+
 ## Preface
 
 <p>This Repository presents a recipe app which gives you the oportunity to create new recipes, including a recipe name, an image of the meal, the ingredients and the steps to create the meal. Furthermore you can upload all created recipes to the <a href="https://firebase.google.com">Google Firebase Platform</a> which handles all the data in a cloud. So you can access any created meal from any device with the app.</p>
@@ -14,6 +16,7 @@ A Flutter App for creating Recipies.
 ## Table of Contents
 
  - [Installation and Setup](#installation-and-setup)
+ - [Some Insights into the App](#some-insights-into-the-app)
  - [Citing](#citing)
  - [License](#license)
  
@@ -33,17 +36,21 @@ To install the app on your phone or make changes you need a couple of things:
     
 ## Some Insights into the App
 
-
+<img src="https://github.com/JanMarcelKezmann/YourCookBook/blob/master/images/Screenshot_20200914-103321.jpg" width="300" height="500">
+<img src="https://github.com/JanMarcelKezmann/YourCookBook/blob/master/images/Screenshot_20200914-104112.jpg" width="300" height="500">
+<img src="https://github.com/JanMarcelKezmann/YourCookBook/blob/master/images/Screenshot_20200914-104302.jpg" width="300" height="500">
+<img src="https://github.com/JanMarcelKezmann/YourCookBook/blob/master/images/Screenshot_20200914-105150.jpg" width="300" height="500">
+<img src="https://github.com/JanMarcelKezmann/YourCookBook/blob/master/images/Screenshot_20200914-104459.jpg" width="300" height="500">
 
 ## Citing
 
     @misc{Kezmann:2020,
       Author = {Jan-Marcel Kezmann},
-      Title = {Segmentation Models},
+      Title = {YourCookBook},
       Year = {2020},
       Publisher = {GitHub},
       Journal = {GitHub repository},
-      Howpublished = {\url{https://github.com/JanMarcelKezmann/TensorFlow-Advanced-Segmentation_Models}}
+      Howpublished = {\url{https://github.com/JanMarcelKezmann/YourCookBook}}
     }
 
 ## License
