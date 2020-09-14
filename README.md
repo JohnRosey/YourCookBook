@@ -36,11 +36,16 @@ To install the app on your phone or make changes you need a couple of things:
     
 ## Some Insights into the App
 
-<img src="https://github.com/JanMarcelKezmann/YourCookBook/blob/master/images/Screenshot_20200914-103321.jpg" width="300" height="500">
-<img src="https://github.com/JanMarcelKezmann/YourCookBook/blob/master/images/Screenshot_20200914-104112.jpg" width="300" height="500">
-<img src="https://github.com/JanMarcelKezmann/YourCookBook/blob/master/images/Screenshot_20200914-104302.jpg" width="300" height="500">
-<img src="https://github.com/JanMarcelKezmann/YourCookBook/blob/master/images/Screenshot_20200914-105150.jpg" width="300" height="500">
-<img src="https://github.com/JanMarcelKezmann/YourCookBook/blob/master/images/Screenshot_20200914-104459.jpg" width="300" height="500">
+<p align="center">
+ <img src="https://github.com/JanMarcelKezmann/YourCookBook/blob/master/images/Screenshot_20200914-103321.jpg" width="300" height="500">
+ <img src="https://github.com/JanMarcelKezmann/YourCookBook/blob/master/images/Screenshot_20200914-104459.jpg" width="300" height="500">
+</p>
+
+<p algin="center">
+ <img src="https://github.com/JanMarcelKezmann/YourCookBook/blob/master/images/Screenshot_20200914-105150.jpg" width="300" height="500">
+ <img src="https://github.com/JanMarcelKezmann/YourCookBook/blob/master/images/Screenshot_20200914-104112.jpg" width="300" height="500">
+ <img src="https://github.com/JanMarcelKezmann/YourCookBook/blob/master/images/Screenshot_20200914-104302.jpg" width="300" height="500">
+</p>
 
 ## Citing
 
